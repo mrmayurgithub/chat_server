@@ -17,6 +17,7 @@ io.on("connection", (socket) => {
     clients[id] = socket;
     console.log(clients);
   });
+  
   socket.on("message", (msg) => {
     console.log(msg);
     let targetId = msg.targetId;
