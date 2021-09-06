@@ -3,3 +3,8 @@
 ## Features
 - [x] Send text
 - [x] Send & Receive Images
+
+## Utilized
+- Nodejs
+- Express
+- Socket.io
