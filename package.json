@@ -5,18 +5,19 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
+    "multer": "^1.4.3",
     "nodemon": "^2.0.12",
     "socket.io": "^2.4.1"
   },
   "devDependencies": {},
   "scripts": {
-    "dev":"nodemon index",
-    "start":"node index"
+    "dev": "nodemon index",
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines":{
-    "node":"14.x"
+  "engines": {
+    "node": "14.x"
   }
 }
