@@ -1,5 +1,5 @@
-#Chat Server
+# Chat Server
 
-##Features
+## Features
 - [x] Send text
 - [x] Send & Receive Images
